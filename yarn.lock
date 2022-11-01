@@ -8280,10 +8280,10 @@ next-auth@^4.1.0, next-auth@^4.1.2:
     preact-render-to-string "^5.1.19"
     uuid "^8.3.2"
 
-next-seo@^5.0.0:
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/next-seo/-/next-seo-5.0.0.tgz#8a5c82279edcbd74c4ce58efa5588528e47c0d72"
-  integrity sha512-uCa8hoE5VQz4D2NqZAPhqR64hY5LSmaq70wmfGK09U57TMY7XzsDI+MjfZo0MgHJM87bj3Fd/oMQbDcZ/YWhJQ==
+next-seo@^5.13.0:
+  version "5.13.0"
+  resolved "https://registry.yarnpkg.com/next-seo/-/next-seo-5.13.0.tgz#69c0773ce7b641e719173d4f32a9758711d62b6b"
+  integrity sha512-3n6cOjXydxXlrbMIWcU+D6TllKj72C2rg7IdgoxoKOnfC8ah3U0VUIGRApKXK0wi5ME1m+TBq9isAFFbFdbWXQ==
 
 next-transpile-modules@9.0.0:
   version "9.0.0"
